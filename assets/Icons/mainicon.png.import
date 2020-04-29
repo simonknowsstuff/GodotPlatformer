@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/mainicon.png-5b053ae7d2fab5b54b2c038c34238ac5.image"
+
+[deps]
+
+source_file="res://assets/Icons/mainicon.png"
+dest_files=[ "res://.import/mainicon.png-5b053ae7d2fab5b54b2c038c34238ac5.image" ]
+
+[params]
+
